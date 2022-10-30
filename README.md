@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunoFernandes21
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, VueJs
+- 🌱 I’m currently learning Javascript, VueJs, ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
