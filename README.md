@@ -3,7 +3,7 @@
 - My developer portfolio: https://bruno-dev-portfolio.vercel.app/
 - 🌱 I’m currently working on projects using the MERN stack
 - 💞️ I’m looking to start a career as a web developer
-- 📫 You can reach me at brunomcdowell06@gmail.com
+- 📫 You can reach me at brunoaf1523@gmail.com
 - 
 
 <!---
