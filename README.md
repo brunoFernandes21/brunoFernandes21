@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bruno Fernandes, based in Leeds England.
-- 👀 I am a Web Developer who is passionate about creating functional web applications
-- 💻 My developer portfolio link: https://www.bfnc-news.com
-- 🌱 I’m currently working on projects using the MERN stack
-- 💞️ I’m looking to start a career as a web developer
+- 👋 Hi, I’m Bruno Fernandes, based in Leeds England
+- 👀 I am a Software Developer who is passionate about building beautiful and functional web applications
+- 💻 My developer live portfolio: https://www.bfnc-news.com
+- 🌱 I’m currently doing a Software Development Bootcamp at Northcoders
+- 💞️ I’m looking to kickstart my career as a Software Developer
 - 📫 You can reach me at brunoaf1523@gmail.com
 - 
 
