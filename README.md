@@ -8,8 +8,6 @@
 - ✅ Check out all of my projects: https://brunofer-projects.netlify.app
 - 🔥 Next Project >> TotalFitness, a Full Stack application using the MERN stack. Coming soon! 
 
-- 
-
 <!---
 brunoFernandes21/brunoFernandes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
