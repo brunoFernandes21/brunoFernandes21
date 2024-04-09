@@ -6,7 +6,7 @@
 - 💻 Northcoders News: https://www.bfnc-news.com
 - 📺 Northcoders Software Engineering Final Group Project - Books-Buzz: https://books-buzz-app.netlify.app/landing-page
 - ✅ Check out all of my projects: https://brunofer-projects.netlify.app
-- 🔥 Next Project >> TotalFitness, a Full Stack application using the MERN stack. Coming soon! 
+- 🔥 Next Project >> React JobBoard, a Full Stack Web Application. Coming soon! 
 
 <!---
 brunoFernandes21/brunoFernandes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
