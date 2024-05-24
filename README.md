@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bruno Fernandes, based in Leeds, England
-- 👀 I am a Software Developer who is passionate about building beautiful and functional web applications
-- 💞️ I’m looking to kickstart my career as a Software Developer
+- 👀 I am a Software Developer at Dedalus UKI who is passionate about building appealing and functional Software Applications.
 - 📫 You can reach me at brunoaf1523@gmail.com
 - 🚨 My brand new Portfolio Website: https://bfernandes.netlify.app/
 - 💻 Northcoders News: https://www.bfnc-news.com
