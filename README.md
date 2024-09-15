@@ -2,8 +2,6 @@
 - 👀 I am a Software Developer at Dedalus UKI who is passionate about building appealing and functional Software Applications.
 - 📫 You can reach me at brunoaf1523@gmail.com
 - 🚨 My brand new Portfolio Website: https://bfernandes.netlify.app/
-- 💻 Northcoders News: https://www.bfnc-news.com
-- 📺 Northcoders Software Engineering Final Group Project - Books-Buzz: https://books-buzz-app.netlify.app/landing-page
 - ✅ Check out all of my projects: https://brunofer-projects.netlify.app
 - 🔥 Next Project >> React JobBoard, a Full Stack Web Application. Coming soon! 
 
