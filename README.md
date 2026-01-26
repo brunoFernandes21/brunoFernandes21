@@ -3,8 +3,6 @@
 - 📫 You can reach me at brunoaf1523@gmail.com
 - 🚨 My brand new Portfolio Website: https://bfernandes.netlify.app/
 - ✅ Check out all of my projects: https://brunofer-projects.netlify.app
-- 🔥 Next Project >> React JobBoard, a Full Stack Web Application. Coming soon! 
-
 <!---
 brunoFernandes21/brunoFernandes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
